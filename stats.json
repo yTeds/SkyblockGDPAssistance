@@ -1,7 +1,7 @@
 {
-  "count": 252,
-  "current": 564789285,
-  "total": 306634189152,
+  "count": 253,
+  "current": 491600194,
+  "total": 307125789346,
   "history": [
     [
       2153758907,
@@ -271,7 +271,8 @@
       389152677,
       1794783592,
       1213037394,
-      564789285
+      564789285,
+      491600194
     ]
   ],
   "buyers": {
@@ -485,7 +486,7 @@
     },
     "a73851ea29b14b4f952f1eca67151b4f": {
       "name": "rgoammabnler",
-      "spent": 11347321
+      "spent": 12162321
     },
     "3f34f5f4d22046b8be39a20618b7eac0": {
       "name": "jibbzmahony",
@@ -1241,7 +1242,7 @@
     },
     "86ec7cad49254323a1dae050015ec618": {
       "name": "sklesan",
-      "spent": 114215000
+      "spent": 123215000
     },
     "1801323c26e34661b7aa10225288a997": {
       "name": "Teqi_",
@@ -1721,7 +1722,7 @@
     },
     "71c95c931e6e42bbb985c5611ebf47e5": {
       "name": "VendoOpala89_6cc",
-      "spent": 28537853
+      "spent": 35537853
     },
     "b418ebcd9b6b4e48a3f33f305cf71a32": {
       "name": "Pedrinpjl",
@@ -1849,7 +1850,7 @@
     },
     "b957ea5259734aa4b368b84c324af41b": {
       "name": "JustDaiko",
-      "spent": 80365050
+      "spent": 80371450
     },
     "8d4dfee031004cf5a02a6426af3ccea2": {
       "name": "Not_A_Bot1342",
@@ -2357,7 +2358,7 @@
     },
     "ea1c1601ae7749ad8f5d67e459fd0616": {
       "name": "zync_zz",
-      "spent": 14660000
+      "spent": 18360000
     },
     "c357557611ac4fe193d4b13aad9938a3": {
       "name": "Zazzy_Autumn",
@@ -3493,7 +3494,7 @@
     },
     "0602a6e53d5547b5adb0df4bce07a25b": {
       "name": "Invasiann",
-      "spent": 28690000
+      "spent": 33089999
     },
     "af3d9306a1bc409da0251da27021371e": {
       "name": "zimskecarolije",
@@ -6437,7 +6438,7 @@
     },
     "ec43d7eb55c34dbcb45d70e94ccdfeae": {
       "name": "BeanBagguy44",
-      "spent": 96950000
+      "spent": 102949999
     },
     "e2f5e790d2ab46e6b46b3ec63b3aaadc": {
       "name": "bruhmemed",
@@ -7177,7 +7178,7 @@
     },
     "f21b3f4d3c914799bcea52acf74a8013": {
       "name": "MachChaser487",
-      "spent": 72000000
+      "spent": 173000000
     },
     "03fab1c7c66441f08ae52972888fc993": {
       "name": "NotEliteButMid",
@@ -7725,7 +7726,7 @@
     },
     "7322debc8da64d41ba48fa0539dd6fa8": {
       "name": "EvilSugarCube",
-      "spent": 510090000
+      "spent": 515590000
     },
     "982440f690e74e56837a341f0befc2df": {
       "name": "CornPicker6170",
@@ -8129,11 +8130,11 @@
     },
     "18448da746af472bab440d17ffb70ca1": {
       "name": "dawnofthedew",
-      "spent": 1541497
+      "spent": 1903496
     },
     "4f727c5373ae4fcf944cb199599ac419": {
       "name": "uris10",
-      "spent": 445000
+      "spent": 505000
     },
     "91c21ff1b7ce473eae9d3fb8712a3f58": {
       "name": "PigmanHero",
@@ -8789,7 +8790,7 @@
     },
     "bd530df20b9a4fdeacf3e316da5682e0": {
       "name": "DerGriefer",
-      "spent": 20522414
+      "spent": 27822414
     },
     "faa7364edbc649ceb89d448bf3a4386e": {
       "name": "BOB_THE_BUD",
@@ -10957,7 +10958,7 @@
     },
     "cfac11a5b37f46a1b616e1b6d834038c": {
       "name": "ByJosemi847",
-      "spent": 4079999
+      "spent": 4404999
     },
     "8740afb4d1ef42caad542a47c2e5710d": {
       "name": "_TesakDanCZ_",
@@ -13733,7 +13734,7 @@
     },
     "899f06a87ef248dbbc705ff29f1e46cb": {
       "name": "RyanJammo",
-      "spent": 17438887
+      "spent": 18007887
     },
     "73c7ebe83fc444f0a65aca107b0efddf": {
       "name": "Uhsty",
@@ -16517,7 +16518,7 @@
     },
     "893d2c7a7c2a407b864dd750e668bd8e": {
       "name": "MootMallard",
-      "spent": 669996
+      "spent": 719196
     },
     "0974bb0d69cd491f914ccbe9399a7813": {
       "name": "WorthlessFemboy",
@@ -19397,7 +19398,7 @@
     },
     "62fe343242a14626ba0fad920cfe1ea0": {
       "name": "Saturn245",
-      "spent": 2984990
+      "spent": 5978986
     },
     "cad0149273684a27af80aeaafc791964": {
       "name": "MrCps1",
@@ -23085,7 +23086,7 @@
     },
     "89081da38c1845b3a336c76c502fb77c": {
       "name": "Frogort",
-      "spent": 580000
+      "spent": 610000
     },
     "ecea03a68bfc42c38c9aeb4a6c7ba92a": {
       "name": "Maoshou121",
@@ -24357,7 +24358,7 @@
     },
     "3ad3f7504acb4eb08faea81846b00af1": {
       "name": "DevIgnite",
-      "spent": 51418554
+      "spent": 51468554
     },
     "707f27d5a8b440aa8edceb650c12d528": {
       "name": "oyous101",
@@ -25665,7 +25666,7 @@
     },
     "eb76b4024a8d4368b78591440ef9896e": {
       "name": "WeaklierAxis634",
-      "spent": 116859000
+      "spent": 116896000
     },
     "d81edc1c2d8b46d99645f13937a41862": {
       "name": "MikaderHeld",
@@ -26693,7 +26694,7 @@
     },
     "9c124b108b2d44bc8ce5ba41c1062fe0": {
       "name": "latif_88",
-      "spent": 42480000
+      "spent": 47480000
     },
     "2f64dc64b02744f590e280eccfb974f4": {
       "name": "randomplayerexe",
@@ -27229,7 +27230,7 @@
     },
     "1362c8a0639943f2ba58c734de7cc215": {
       "name": "xtbr",
-      "spent": 125619
+      "spent": 125924
     },
     "389e0217c6104bbb886dfe151a0eb294": {
       "name": "billybounce_",
@@ -27561,7 +27562,7 @@
     },
     "421b3249a4664f3c8cded1b7b73146af": {
       "name": "catkiroely",
-      "spent": 889000
+      "spent": 1111221
     },
     "2f78f1941cb84160aec278ec635d8b2f": {
       "name": "ThatRustyIron",
@@ -28025,7 +28026,7 @@
     },
     "c353049da6fa43f9a4a055e3e0612f9b": {
       "name": "c353049d",
-      "spent": 2488888
+      "spent": 3068888
     },
     "84238676c66644b189f5ff055913eb50": {
       "name": "84238676",
@@ -28129,7 +28130,7 @@
     },
     "cf6a9b64c70f4e00b36d95a0ca07c670": {
       "name": "TommyTom18",
-      "spent": 150000
+      "spent": 540000
     },
     "61ca893129ca44f6bc088ac577282e90": {
       "name": "throwersgetloot",
@@ -28589,7 +28590,7 @@
     },
     "d42a37dc95a64600b2231dc75cf8c700": {
       "name": "Savaer",
-      "spent": 2220000
+      "spent": 67220000
     },
     "b951323584894f699ff74ea1340cb7be": {
       "name": "Sjaakieeeeee1",
@@ -29209,7 +29210,7 @@
     },
     "dc43d400388a481db957f3a7f4c1c247": {
       "name": "krimzy8",
-      "spent": 3368890
+      "spent": 3504730
     },
     "17f591c0f6a647b4af6c6b6380333d25": {
       "name": "Marphii",
@@ -29549,7 +29550,7 @@
     },
     "77555ed464b0434094a8f781ff91eefd": {
       "name": "Omskuren69",
-      "spent": 549000
+      "spent": 3604000
     },
     "4277bfb309274d3fb754938f9795143b": {
       "name": "dragonrider357",
@@ -29793,7 +29794,7 @@
     },
     "e605316d84de42f2882db56341df678d": {
       "name": "_N0OB_",
-      "spent": 5020000
+      "spent": 9320000
     },
     "dd1ec5f9edfe4480b912178d1bba79a1": {
       "name": "Fifo76",
@@ -30761,7 +30762,7 @@
     },
     "755daa46d9364d4bb59f6e3fb5a585cb": {
       "name": "2lazarus2",
-      "spent": 83672220
+      "spent": 83892220
     },
     "3be2ca27c1854d838034f96c95b4dedc": {
       "name": "elbil12",
@@ -30865,7 +30866,7 @@
     },
     "ad707d52f55d4152ae71dea8379c717b": {
       "name": "FemboyBenny",
-      "spent": 6048999
+      "spent": 17048999
     },
     "84007985afd54c7f8725b99293a4388c": {
       "name": "WurmFuxi17",
@@ -31329,7 +31330,7 @@
     },
     "fd53d4eda5d243679d58c806bb98902a": {
       "name": "RecycledDoom",
-      "spent": 10000
+      "spent": 10495
     },
     "5f29d6be81cb4d20899e24954c2d30bf": {
       "name": "MHHKYAHYA14",
@@ -31653,7 +31654,7 @@
     },
     "5979acf7cfba44f6a472849ededb3654": {
       "name": "Simon4035",
-      "spent": 146483996
+      "spent": 152738996
     },
     "8b7c123d72cb48b0819e6ec5205e83fd": {
       "name": "ManastrafeMisto",
@@ -32233,7 +32234,7 @@
     },
     "edb3bb364f3049e597dc58320d063b09": {
       "name": "alwvys",
-      "spent": 13179999
+      "spent": 16379999
     },
     "3c680148b1ca4008beb17b975f7f104a": {
       "name": "LimboLump",
@@ -32641,7 +32642,7 @@
     },
     "6580fe10ba9041838606a8ae2da62712": {
       "name": "stikisnip",
-      "spent": 1950000
+      "spent": 2064000
     },
     "a6643dea2d8a4fc9bccbbd0414401a37": {
       "name": "HelloImZeebo",
@@ -32697,7 +32698,7 @@
     },
     "918cb9e5214a427e935d6e4b8b7e3346": {
       "name": "Arroh_",
-      "spent": 23900000
+      "spent": 34299996
     },
     "8c5b4d0b312544b2a220f0634a0a21f3": {
       "name": "CatgirlKiyomi",
@@ -32853,7 +32854,7 @@
     },
     "a6708cd7dfcf4dd1bb5b78bb34d0b506": {
       "name": "TerraTornado514",
-      "spent": 568833000
+      "spent": 573172999
     },
     "a7cbe4d9a51e43d38e130ace73b65f7f": {
       "name": "Speedofballs",
@@ -32929,7 +32930,7 @@
     },
     "636709024b7c496d8e4a3624bcd50a3e": {
       "name": "MortalMaximus",
-      "spent": 1341098
+      "spent": 1371098
     },
     "fcb197379b6a4a50bf8302922c2785ea": {
       "name": "_a0d",
@@ -33425,7 +33426,7 @@
     },
     "6d6592674576490e93f129cd0f5b4c56": {
       "name": "Lzuya",
-      "spent": 20200000
+      "spent": 40200000
     },
     "b94e64bc96ec47c3a7e0cdb2047c44fa": {
       "name": "DefinitelyMel",
@@ -33445,7 +33446,7 @@
     },
     "98132ed4d201487abca56a60f31f1771": {
       "name": "Sezleurt",
-      "spent": 19000000
+      "spent": 104000000
     },
     "d0323a0183a94828809e4dbaa218d170": {
       "name": "Analyses",
@@ -33501,7 +33502,7 @@
     },
     "c485d7e6ea3948948f0a431ec2547bf9": {
       "name": "TontonRhino",
-      "spent": 2030553
+      "spent": 2680553
     },
     "e973af8f9a604a4f859477946087d06e": {
       "name": "BathWaterThirst",
@@ -33589,7 +33590,7 @@
     },
     "2de0e9063c42448ebacf350ea5fb1480": {
       "name": "I_R_0_N_",
-      "spent": 593999
+      "spent": 1041748
     },
     "afd39515295f4cc1a16d455b05a8654a": {
       "name": "XeddIsntHere",
@@ -33601,7 +33602,7 @@
     },
     "4044ae516b7f4abc9241239476eb6ad7": {
       "name": "PotatoNinja662",
-      "spent": 859750000
+      "spent": 874154000
     },
     "006fa197ad52407fafcbe4e5f383910e": {
       "name": "teduk",
@@ -33633,7 +33634,7 @@
     },
     "5d38660853dd4e67b51637680ddaa79e": {
       "name": "Matt_Gamer45_",
-      "spent": 2340000
+      "spent": 3140000
     },
     "b5e07fd073454201b88e3683165b8159": {
       "name": "ScoobyPlsDont",
@@ -33692,7 +33693,7 @@
       "spent": 1690000
     },
     "b1db24cb72644941a800bf0c89dac4a2": {
-      "name": "b1db24cb",
+      "name": "Tacklee",
       "spent": 34379999
     },
     "38553176394a4706bec0e24c9aa483c0": {
@@ -33701,7 +33702,7 @@
     },
     "024fdfe83130490180156da6296571bf": {
       "name": "Nutsk1",
-      "spent": 439000
+      "spent": 3139000
     },
     "700e15ba5b324ff9a9942e6a3db2504f": {
       "name": "FlamessZZZ",
@@ -33733,95 +33734,163 @@
     },
     "cfc9ca0a17eb44a29eb920fbd1f68d9d": {
       "name": "DropOfRain",
-      "spent": 899999
+      "spent": 1399999
     },
     "01213d1a04054266a00b88748f786ff6": {
-      "name": "01213d1a",
+      "name": "whodouwannabe",
       "spent": 68900000
     },
     "182f21fdc32c46c4ad1a929147342fe2": {
-      "name": "182f21fd",
+      "name": "BBG_Doulliee",
       "spent": 26000000
     },
     "b4cdb8161bcc4ffab9ec6f773160dc73": {
-      "name": "b4cdb816",
-      "spent": 100000000
+      "name": "mwurder",
+      "spent": 133500000
     },
     "64e298f4939e474998e999ef36526c5e": {
-      "name": "64e298f4",
+      "name": "j_sh",
       "spent": 1061
     },
     "a46e569586a54f1dbede93f759fba92a": {
-      "name": "a46e5695",
+      "name": "hobopanda",
       "spent": 146410
     },
     "1083937c8ae04e018964387690e149b4": {
-      "name": "1083937c",
+      "name": "twojinie",
       "spent": 300000
     },
     "cda2820c971f42c293c3f02adab2d0d1": {
-      "name": "cda2820c",
+      "name": "ChicoCampianz",
       "spent": 119000
     },
     "dbb6a38a926845eeb7d5ea8285fc49ba": {
-      "name": "dbb6a38a",
+      "name": "TwoOceans",
       "spent": 3400000
     },
     "853e83d51be04d2f879ff16d7b5d02a6": {
-      "name": "853e83d5",
+      "name": "Braskeus",
       "spent": 500000
     },
     "bf4657ae3d9543329cd9eeb2c6603f04": {
-      "name": "bf4657ae",
+      "name": "WhiteCatastrophe",
       "spent": 10498000
     },
     "63d98ffcca2c49cf8e8dad8b2bf1631a": {
-      "name": "63d98ffc",
+      "name": "Jason18_TW",
       "spent": 880000
     },
     "9f452eff614c4f5fa0bf2ae4dc02f06b": {
-      "name": "9f452eff",
+      "name": "GamerBoy15436",
       "spent": 8888888
     },
     "759a43d7ecd24b16a2c8d1d1446193ce": {
-      "name": "759a43d7",
+      "name": "Mr_Pug2",
       "spent": 4900000
     },
     "0bda9607c1c640bcadf6f4da6204de00": {
-      "name": "0bda9607",
+      "name": "HonkkiDonki",
       "spent": 170000
     },
     "acbbdec32b9747b5a5c7e1a500a46ffd": {
-      "name": "acbbdec3",
+      "name": "BeStiK1",
       "spent": 26
     },
     "225f6fe694a34b80a5b92b6767965f7d": {
-      "name": "225f6fe6",
+      "name": "CitrusCrash",
       "spent": 300000
     },
     "6283e03f96114159a60be6a9a541c8da": {
-      "name": "6283e03f",
+      "name": "Stevowski",
       "spent": 150000
     },
     "58a3094e0e4e41ec9abd44d0eb20c770": {
-      "name": "58a3094e",
+      "name": "pouchan",
       "spent": 150000
     },
     "cd287dd5effe4f72a71a5dab1d226fff": {
-      "name": "cd287dd5",
-      "spent": 1230000
+      "name": "GEOPUNDA",
+      "spent": 2829999
     },
     "49e08b17d68b44aa92256d6cdfa310b7": {
-      "name": "49e08b17",
-      "spent": 500000
+      "name": "theflammer",
+      "spent": 1650000
     },
     "3e27595b6dae4ac1a8389eb5f0a32427": {
-      "name": "3e27595b",
+      "name": "Uselescopper",
       "spent": 599000
     },
     "a9f98538cb39469cac0c6cf41323e76d": {
-      "name": "a9f98538",
+      "name": "MyNameIsNotMine",
       "spent": 1989989
+    },
+    "c61269fee11a4259b053b2e0487bd26e": {
+      "name": "c61269fe",
+      "spent": 25000000
+    },
+    "7d27b5e722464d2da7b821fdc3d57e72": {
+      "name": "7d27b5e7",
+      "spent": 390000
+    },
+    "afa34c693bc04ba485247c6d53dd2ae0": {
+      "name": "afa34c69",
+      "spent": 2999999
+    },
+    "c2d6509c2a9c4c6d852b4a29ab649e6c": {
+      "name": "c2d6509c",
+      "spent": 399000
+    },
+    "032eb55524b3437dbee1a9a1481b2dae": {
+      "name": "032eb555",
+      "spent": 5200000
+    },
+    "155319d6002c421d80d0ffa0bcb18722": {
+      "name": "155319d6",
+      "spent": 598999
+    },
+    "c4a1d185bbca4db4a21a8309ab82fac6": {
+      "name": "c4a1d185",
+      "spent": 400000
+    },
+    "bb0e66f7fe914676905b25f8fd1e1efb": {
+      "name": "bb0e66f7",
+      "spent": 1000
+    },
+    "77100e98b546495eafaa7717ff18f478": {
+      "name": "77100e98",
+      "spent": 1700000
+    },
+    "18002f6dfa984ba5aaca3450470e1a56": {
+      "name": "18002f6d",
+      "spent": 15000000
+    },
+    "5972b11f576c4b4aaa087053f2701ec7": {
+      "name": "5972b11f",
+      "spent": 1679000
+    },
+    "2d71156349bc43329f7e69b3f3d86e25": {
+      "name": "2d711563",
+      "spent": 2900000
+    },
+    "abb27f89b2ea44c1aea1c81c2f0dda9c": {
+      "name": "abb27f89",
+      "spent": 1690000
+    },
+    "ed79c23f936744b885f1f04327085c6f": {
+      "name": "ed79c23f",
+      "spent": 799999
+    },
+    "907b94d3323d4659a57032e1641d7601": {
+      "name": "907b94d3",
+      "spent": 200000
+    },
+    "1dfe72f82a5d4816bd64bf9e83c87eb9": {
+      "name": "1dfe72f8",
+      "spent": 1600000
+    },
+    "4b9dda33e4ac4cf2948e2b6e5048cf56": {
+      "name": "4b9dda33",
+      "spent": 6850000
     }
   }
 }
