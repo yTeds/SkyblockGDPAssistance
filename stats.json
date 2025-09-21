@@ -1,7 +1,7 @@
 {
-  "count": 295,
-  "current": 434846530,
-  "total": 346551145771,
+  "count": 296,
+  "current": 493504164,
+  "total": 347044649935,
   "history": [
     [
       2153758907,
@@ -316,7 +316,8 @@
       1532939084,
       1084498129,
       868290981,
-      434846530
+      434846530,
+      493504164
     ]
   ],
   "buyers": {
@@ -482,7 +483,7 @@
     },
     "7b3f552edde2462ab49345cc44c6888e": {
       "name": "JediAaron__",
-      "spent": 667822223
+      "spent": 677096223
     },
     "b24cefe7fc0248b0b5d00741b0a02bee": {
       "name": "Godlyshark1",
@@ -1570,7 +1571,7 @@
     },
     "81c36476f724453e8e90a38c494ae8c3": {
       "name": "Kusbi",
-      "spent": 8489000
+      "spent": 8684000
     },
     "0d7b672974924701a91862718662b86b": {
       "name": "KMAN11APPLEWOOD",
@@ -10378,7 +10379,7 @@
     },
     "907160796a5a4a1f99b0a2ed4a48a01a": {
       "name": "DayzBefore",
-      "spent": 25000
+      "spent": 236111
     },
     "af10a6184d9e4ded8c1687fe25fc958b": {
       "name": "NoobJeff04",
@@ -25094,7 +25095,7 @@
     },
     "55a64a4fbb29491a97d4dfc058913ae4": {
       "name": "Fe8t",
-      "spent": 19864998
+      "spent": 20511746
     },
     "4489ecadc1cf44059c76efc53084e496": {
       "name": "16wf",
@@ -29390,7 +29391,7 @@
     },
     "0ca1450c057f4482a75eb516391644c9": {
       "name": "0ca1450c",
-      "spent": 1350000
+      "spent": 4600000
     },
     "31e4a1cc7f0a49e7adea129c433f806b": {
       "name": "31e4a1cc",
@@ -37335,6 +37336,214 @@
     "4d34c7ebde4046e099f0200c101f2e10": {
       "name": "4d34c7eb",
       "spent": 1250000
+    },
+    "b9a998b062d740d19e2989e621df8d7a": {
+      "name": "b9a998b0",
+      "spent": 45000
+    },
+    "5235bece2cbb4c009809d27c2fb8bac3": {
+      "name": "5235bece",
+      "spent": 4000000
+    },
+    "8b94bb12cb5c4d029ca76df6e2959c95": {
+      "name": "8b94bb12",
+      "spent": 1650000
+    },
+    "c69fa0227d814304bfcbc02c43510f68": {
+      "name": "c69fa022",
+      "spent": 810000
+    },
+    "7682e095dbf0434e9e92b094ab444675": {
+      "name": "7682e095",
+      "spent": 100000
+    },
+    "d721aab710ba41188e6be69985108b14": {
+      "name": "d721aab7",
+      "spent": 2900000
+    },
+    "234cb853b0af4015a35d5a5a348c7350": {
+      "name": "234cb853",
+      "spent": 218999
+    },
+    "f1b46b6f8378450eb7870af93d54f28e": {
+      "name": "f1b46b6f",
+      "spent": 3640000
+    },
+    "1f83b51967014fa5bdfc55f1327dbb44": {
+      "name": "1f83b519",
+      "spent": 55000000
+    },
+    "e20c8b534c054c3db9c079a6fd982c9b": {
+      "name": "e20c8b53",
+      "spent": 3790000
+    },
+    "e74b8b00d699492cbee829a2414607ff": {
+      "name": "e74b8b00",
+      "spent": 3800000
+    },
+    "0914abde3b8a47709ec40dd0a01911b5": {
+      "name": "0914abde",
+      "spent": 538000
+    },
+    "89e24f04837e4aeb8f1030cc0eda603d": {
+      "name": "89e24f04",
+      "spent": 3899999
+    },
+    "7d1b0acf655c4a1ca59c30bb7a6c42b0": {
+      "name": "7d1b0acf",
+      "spent": 9690000
+    },
+    "0cb8fbd83da147b480ad00b7fe134f6a": {
+      "name": "0cb8fbd8",
+      "spent": 335000
+    },
+    "9712f3d98166420f8f5983c1b5537cd7": {
+      "name": "9712f3d9",
+      "spent": 29000
+    },
+    "e0e7f77665364f5092fe9275a3392673": {
+      "name": "e0e7f776",
+      "spent": 389998
+    },
+    "0eddaadb07644f20aa718019b9151c2c": {
+      "name": "0eddaadb",
+      "spent": 5499999
+    },
+    "145cf57ff87f4b68ad256811ec62a9cc": {
+      "name": "145cf57f",
+      "spent": 2000000
+    },
+    "669a228b2e9148eebb084cf00ca4adc1": {
+      "name": "669a228b",
+      "spent": 49189998
+    },
+    "d15808b91b074f769eab011b9abb021c": {
+      "name": "d15808b9",
+      "spent": 6582578
+    },
+    "fcb6b9dccb954b81b937eb5af335636e": {
+      "name": "fcb6b9dc",
+      "spent": 3499999
+    },
+    "e037d0f1a0dc4e6e9d47056b14f04c65": {
+      "name": "e037d0f1",
+      "spent": 4670000
+    },
+    "fc70cc49a6e646d0947000372abb97b9": {
+      "name": "fc70cc49",
+      "spent": 450000
+    },
+    "8b9a97c274f84bc098299fd8c8ebc2d8": {
+      "name": "8b9a97c2",
+      "spent": 785000
+    },
+    "0bb6a24a5ccf4883aa5745e59344addf": {
+      "name": "0bb6a24a",
+      "spent": 550000
+    },
+    "a935629cd7c0422592e65e40be46fa6e": {
+      "name": "a935629c",
+      "spent": 104400000
+    },
+    "26aad9721ed64be3b9977192376ea3b7": {
+      "name": "26aad972",
+      "spent": 599999
+    },
+    "23d4addab8b94d82b68e2ce713cfdab9": {
+      "name": "23d4adda",
+      "spent": 90000
+    },
+    "878f0adfb2ec4c4f8593befa959f3be3": {
+      "name": "878f0adf",
+      "spent": 25550000
+    },
+    "060bb34a39984d83b3dc6d80072a0fce": {
+      "name": "060bb34a",
+      "spent": 26000000
+    },
+    "756f32c64db746c6a71043f9ea921173": {
+      "name": "756f32c6",
+      "spent": 2400000
+    },
+    "07cda742ac114db8885e863285f9647b": {
+      "name": "07cda742",
+      "spent": 8400000
+    },
+    "0612935bea724c32af1fd4933a094e16": {
+      "name": "0612935b",
+      "spent": 1890000
+    },
+    "47eafed822954915a5a918849278eaee": {
+      "name": "47eafed8",
+      "spent": 94688
+    },
+    "c4ae95271cef4a5c83f7f67f230c5666": {
+      "name": "c4ae9527",
+      "spent": 980000
+    },
+    "5331ffa374fc4c3c8ac295396cbc3b7f": {
+      "name": "5331ffa3",
+      "spent": 483153
+    },
+    "eca47ccb628a4778b70bf6f54d6043ed": {
+      "name": "eca47ccb",
+      "spent": 1000000
+    },
+    "ab41c3d09b9d4e4c96623d7894c9d7f4": {
+      "name": "ab41c3d0",
+      "spent": 1650000
+    },
+    "789157fea4e447c988fce4a51acf71f1": {
+      "name": "789157fe",
+      "spent": 2900000
+    },
+    "060b99dd9e52413a85745c728580526c": {
+      "name": "060b99dd",
+      "spent": 6107998
+    },
+    "1449c98e4b4640c4b8ab32e5f43d90c9": {
+      "name": "1449c98e",
+      "spent": 888000
+    },
+    "ff3f52a10d334921a865a90d7b37027e": {
+      "name": "ff3f52a1",
+      "spent": 2700000
+    },
+    "11a699c271ac415497abce9f65084f35": {
+      "name": "11a699c2",
+      "spent": 580000
+    },
+    "c73202d331e84fe3b344abd3cfa6760e": {
+      "name": "c73202d3",
+      "spent": 73800000
+    },
+    "2d6519c2d79d4674b6c86eb2ff570ec6": {
+      "name": "2d6519c2",
+      "spent": 2800000
+    },
+    "626f5261104441e78d4b3da972554a12": {
+      "name": "626f5261",
+      "spent": 12000000
+    },
+    "e0c24ac2928149be9cfa02a9651550b7": {
+      "name": "e0c24ac2",
+      "spent": 1899998
+    },
+    "9cbf3fffd2254da8a390145198c72b53": {
+      "name": "9cbf3fff",
+      "spent": 28000000
+    },
+    "1d20310d4d854440a0012ac2f2215e63": {
+      "name": "1d20310d",
+      "spent": 9899899
+    },
+    "fc93554d924344dab9d77369293ea667": {
+      "name": "fc93554d",
+      "spent": 650000
+    },
+    "5580cba060e142e7ab866583711cbf86": {
+      "name": "5580cba0",
+      "spent": 100000
     }
   }
 }
